@@ -3,7 +3,7 @@
 
 # Тринадцатое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Базы данных. Реляционные СУБД. PostgreSQL](https://drive.google.com/open?id=0B_4NpoQW1xfpOHFGQTUydzdKaFE)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Базы данных. Реляционные СУБД. PostgreSQL](https://drive.google.com/file/d/1_F5t_wX0LTjpXaSLLvrSJeCKpSIVhmxd/view?usp=sharing)
 **Коммиты:**
 
 - [`Lesson13 Init DB`](https://github.com/JavaWebinar/basejava/blob/79f4e1d3ecc9ce306504a991fcca00c81c992f8c/config/init_db.sql)
@@ -21,7 +21,7 @@
 - [Книги по postgreSQL](https://postgrespro.ru/education/books)
 - [Интерактивная обучалка по postgreSQL](https://www.pgexercises.com/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Конфигурирование данных в Java проекте](https://drive.google.com/open?id=0B_4NpoQW1xfpQUpkVTJiQnpBNnM)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Конфигурирование данных в Java проекте](https://drive.google.com/file/d/162_BqWk7dopRL_58pv73Anr7WwzJksev/view?usp=sharing)
 **Коммиты:**
 
 [`Lesson13 properties`](https://github.com/JavaWebinar/basejava/tree/25f4dd3b23790cc74c30d3703b16fa6af09c3905)
@@ -31,7 +31,7 @@
 - [Properties sample](https://www.mkyong.com/java/java-properties-file-examples)
 - Конфигурирование DB и каталога хранения  
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3.Подключение DB в проект](https://drive.google.com/open?id=0B_4NpoQW1xfpWVVSOURIeDNEMUk)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3.Подключение DB в проект](https://drive.google.com/file/d/14fR_FYCGUNwP-RPVjecoxd7SrR0XoH1F/view?usp=sharing)
 **Коммиты:**
 
 [`Lesson13 SqlStorage`](https://github.com/JavaWebinar/basejava/tree/62705ea7e24dda66647b47971f83f1507dd80016)

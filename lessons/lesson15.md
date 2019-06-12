@@ -3,10 +3,10 @@
 
 # Пятнадцатое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-14](https://drive.google.com/open?id=0B_4NpoQW1xfpY1hTY282dzhuOFU)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-14](https://drive.google.com/file/d/1j7d-pUvgUwGdepqVLtMxa1E-8M4SZh2T/view?usp=sharing)
 [см. коммит Lesson15 HW14](https://github.com/JavaWebinar/basejava/tree/02aee9744d7512dfa9ffbebe00ad415ffe5f71ea)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. HTML, Tomcat](https://drive.google.com/open?id=0B_4NpoQW1xfpZk1pQ1h4dEJBVEE)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. HTML, Tomcat](https://drive.google.com/file/d/1R0buUyNmolXlb0_nYcBdAC9rd6RbyRsN/view?usp=sharing)
 [см. коммит Lesson15 web](https://github.com/JavaWebinar/basejava/tree/2fe01af02b7ba82c3f0c8fa29dc3effb5b575531/src/ru/javawebinar/basejava)
 
 - <a href="http://java-course.ru/student/book1/servlet/">Протокол HTTP</a>. Смотрим <a href="http://topjava.herokuapp.com/">демо приложение<a/> в Chrome -> Инструменты разработчика
@@ -14,7 +14,7 @@
 - Настройка и деплой в Tomcat. Tomcat manager.
 - Запуск Tomcat из IDEA. Динамическое обновление без передеплоя.
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Сервлеты](https://drive.google.com/open?id=0B_4NpoQW1xfpUWw3NWo0SVFBRjg)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Сервлеты](https://drive.google.com/file/d/1KEC-_tTuVVUSEyRjxGC4yVfYjWWfqs2A/view?usp=sharing)
 [см. коммит Lesson15 static_content](https://github.com/JavaWebinar/basejava/tree/e9a4a68e8e360f9cbcd3ff12d27876cee1b9f8cd/src/ru/javawebinar/basejava/web)
 
 [см. коммит Lesson15 servlets](https://github.com/JavaWebinar/basejava/tree/4d1043a3a45d27eda11fdc9c68ac46aa68fdd563)
