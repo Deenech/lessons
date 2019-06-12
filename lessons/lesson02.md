@@ -1,6 +1,6 @@
 # Второе занятие
 > разбор HW1 будет на следующем уроке вместе с HW2
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Принципы ООП](https://drive.google.com/open?id=0B_4NpoQW1xfpOHpyYWhOMGQ4VXc)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Принципы ООП](https://drive.google.com/file/d/1iF-0nsOOu6m2zmi22J78tApR0IsUqWBa/view?usp=sharing)
  - [Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование) (wiki)
  - [Объектно-ориентированное программирование (перевод статьи)](http://info.javarush.ru/translation/2016/01/28/Объектно-ориентированное-программирование-перевод-статьи-.html)
 - [Основы Объектно-Ориентированного Программирования (ООП)](https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md)
@@ -13,7 +13,7 @@
   - [Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
   - [Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
   
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/file/d/1zThUD96uHeSvo8fgdTrtx0U30qPDIg6h/view?usp=sharing)
   - [Что такое Heap и Stack память в Java?](https://javadevblog.com/chto-takoe-heap-i-stack-pamyat-v-java.html)
   - [Стек](https://ru.wikipedia.org/wiki/Стек) (wiki)
   - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
@@ -30,7 +30,7 @@
        
 > Начиная с Java 8 область памяти `PermGen` была упразднена и заменена на [`Metaspace`](https://www.javacodegeeks.com/2013/02/java-8-from-permgen-to-metaspace.html)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/file/d/1PmLNfM-9I-6wZKdTO5Hwp8jhTA9WPw7E/view?usp=sharing)
   - [Типы данных](http://www.intuit.ru/studies/courses/16/16/lecture/27111)
   - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
   - [Java types](https://www.youtube.com/watch?v=hqirUFitj9c&index=7&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN) (youtube)
@@ -43,7 +43,7 @@
     - [Why should one use Objects.requireNonNull()?](https://stackoverflow.com/questions/45632920/why-should-one-use-objects-requirenonnull)
     - [Инициализация и загрузка классов](https://www.youtube.com/watch?v=TdvnGw_KcFY) (youtube)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW2](https://drive.google.com/open?id=0B_4NpoQW1xfpWUxUVWx5MFpCZkE)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW2](https://drive.google.com/file/d/1COILoQUO9WjrBtuJ_FnIgJi1qlUh_hu5/view?usp=sharing)
 > Правка к видео: в `ArrayStorage.delete()` вместо `storage[i] = null` нужно записать `storage[size - 1] = null`
 
 - Еще раз прочитайте, [как правильно оформлять код](https://drive.google.com/file/d/1BfVe2KaUxWCAB8R3RKSyM8tmWZBv-J-9/view?usp=sharing)
