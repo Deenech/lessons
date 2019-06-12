@@ -5,11 +5,11 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/file/d/1rk7vfY9ydCtXVtuJJQ13n2equleJvbV1/view?usp=sharing)
 **Коммиты:**
- - [`lesson04 HW03`](https://github.com/JavaWebinar/basejava/tree/afc0cc5111434375f9da00e225ed7cbb15bbd4b7/src/ru/javawebinar/basejava/storage)
+ - [`lesson04 HW03`]
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Работа со строками](https://drive.google.com/file/d/1vIfmI6idbLJWou8NatlTKgsgMT4U0tWB/view?usp=sharing)
 **Коммиты:**
- - [`Lesson04 String`](https://github.com/JavaWebinar/basejava/blob/7f5a5d70a63fbeea40539397b1c4b2cfb3bd272f/src/ru/javawebinar/basejava/MainString.java)
+ - [`Lesson04 String`]
 
 **Ресурсы:**
 - [Строки в Java](https://urvanov.ru/2016/04/20/java-8-строки/)
@@ -23,7 +23,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Исключения](https://drive.google.com/file/d/1XcK9UZYCJWHPy-UZXK_xJduSloKXvR-p/view?usp=sharing)
 **Коммиты:**
- - [`Lesson04 Exceptions`](https://github.com/JavaWebinar/basejava/tree/da03245d2fdafa86d1f02ea242c072ca52e19f26/src/ru/javawebinar/basejava)
+ - [`Lesson04 Exceptions`]
 
 **Ресурсы:**
   - [Исключения (Exceptions)](http://proglang.su/java/exceptions)
@@ -39,7 +39,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Reflection. Аннотации. Модульное тестирование](https://drive.google.com/file/d/1LDd3Ekmi9kn-12Fzxf7M0pOGX_Cvji1K/view?usp=sharing)
 **Коммиты:**
- - [`Lesson04 Reflection and JUnit`](https://github.com/JavaWebinar/basejava/tree/c77bb7c73022fa411262c1da56953f3ef3ca3cc7)
+ - [`Lesson04 Reflection and JUnit`]
  
 **Ресурсы:**
  - [Java 8 аннотации](https://urvanov.ru/2016/03/30/java-8-аннотации/)

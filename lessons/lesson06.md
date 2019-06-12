@@ -4,7 +4,7 @@
 # Шестое занятие
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/file/d/1qpXqQXmqOD3Idx_DlKehcsY9eeUvpstS/view?usp=sharing)
 **Коммиты:**
-- [`lesson06 HW05`](https://github.com/JavaWebinar/basejava/tree/82748583a0454aa3dd2cbf38d83de1cb49fa3ee3)
+- [`lesson06 HW05`]
 
 **Ресурсы:**
 - [Автоупаковка и распаковка в Java](https://habrahabr.ru/post/329498/)
@@ -16,7 +16,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Iterator / Iterable. Вложенные, внутренние, локальные и анонимные классы](https://drive.google.com/file/d/1QfDmfkIqvOGR92w342fmT74tNXihAiHc/view?usp=sharing)
 **Коммиты:**
-- [`Lesson06 Iterator, Comparator and Inner Classes`](https://github.com/JavaWebinar/basejava/tree/e7531643b410435c07a998a1428fb9a4de2d30bb/src/ru/javawebinar/basejava)
+- [`Lesson06 Iterator, Comparator and Inner Classes`]
 
 **Ресурсы:**
 - [Паттерн проектирования Итератор](https://refactoring.guru/ru/design-patterns/iterator/java/example)
@@ -35,7 +35,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Новое в Java 8](https://drive.google.com/file/d/12K49FwCieQRorJUtZEveNehMlmhz0j1d/view?usp=sharing)
 **Коммиты:**
-- [`Lesson06 Lambda`](https://github.com/JavaWebinar/basejava/blob/7a80322a4861ccc1e1eacaef2aac078820699667/src/ru/javawebinar/basejava/storage/SortedArrayStorage.java)
+- [`Lesson06 Lambda`]
 
 **Ресурсы:**
 - [Нововведения в java 8](https://habrahabr.ru/post/216431/)

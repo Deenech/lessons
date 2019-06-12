@@ -5,14 +5,14 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/file/d/1EFGauuE1FeBH76une9chjfNJsoIc1MY1/view?usp=sharing)
 **Коммиты:**
-- [`Lesson07_HW06 test refactoring`](https://github.com/JavaWebinar/basejava/tree/b47cadba8f2fb2da61ef6b9f6b245f5c358ea5d8/test/ru/javawebinar/basejava/storage)
-- [`Lesson07_HW06 add fullName`](https://github.com/JavaWebinar/basejava/tree/fb608dd824abda1f15bbc437e4d0d5e094fc1680)
-- [`Lesson07_HW06 getAllSorted`](https://github.com/JavaWebinar/basejava/tree/bd8e5f4f4582c9f65e1d6a82da1311d6b0efe294)
-- [`Lesson07_HW06 mapStorage`](https://github.com/JavaWebinar/basejava/tree/6d0dbdc64e257452662d65f76edf6d9d07328a79)
+- [`Lesson07_HW06 test refactoring`]
+- [`Lesson07_HW06 add fullName`]
+- [`Lesson07_HW06 getAllSorted`]
+- [`Lesson07_HW06 mapStorage`]
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Параметризация. Стирание типов](https://drive.google.com/file/d/1GtvZseb1qwOoN6gTMfvWdIhfZAj2kcwo/view?usp=sharing)
 **Коммиты:**
-- [`Lesson07 generic`](https://github.com/JavaWebinar/basejava/tree/1cb2a6bc0bbbb43285b8ca6b297588e9984fa84b/src/ru/javawebinar/basejava/storage)
+- [`Lesson07 generic`]
 
 **Ресурсы:**
 - [Дженерики (Java, обучающая статья)](http://www.quizful.net/post/java-generics-tutorial)
@@ -23,7 +23,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Логирование](https://drive.google.com/file/d/1EmWXXlUPVDubzf7Nxp7-nBqDOIk1WZW3/view?usp=sharing)
 **Коммиты:**
-- [`Lesson07 logging`](https://github.com/JavaWebinar/basejava/blob/63674b7f246bf6bc4e509cc1241c7b6340477d18/src/ru/javawebinar/basejava/storage/AbstractStorage.java)
+- [`Lesson07 logging`]
 
 **Ресурсы:**
 - [Log4J (Apache logging)](https://logging.apache.org/)
@@ -34,7 +34,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Синглтон. Enum](https://drive.google.com/file/d/1iMViwf5hQixUAzHapcmzRoCSkJyZzLzl/view?usp=sharing)
 **Коммиты:**
-- [`Lesson07 enum`](https://github.com/JavaWebinar/basejava/tree/a1fe80b00444b6c8d8af149c5e82137c312fee22/src/ru/javawebinar/basejava)
+- [`Lesson07 enum`]
 
 **Ресурсы:**
 - [Одиночка (шаблон проектирования)](https://ru.wikipedia.org/wiki/Одиночка_(шаблон_проектирования))

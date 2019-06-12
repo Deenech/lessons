@@ -7,7 +7,7 @@
 >Для создания и заполнения данными резюме из класса AbstractStorageTest используйте ResumeTestData. Не делайте это в AbstractStorageTest!
 
 **Коммиты:**
-- [`Lesson09 HW08`](https://github.com/JavaWebinar/basejava/tree/150e15f99c35d53e0c43c9f64d7833b5e7184768)
+- [`Lesson09 HW08`]
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Ввод/вывод](https://drive.google.com/file/d/1wcnCTcq15do9UUJeO8ULU198RszvUpaA/view?usp=sharing)
 
@@ -18,7 +18,7 @@
  
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Сериализация](https://drive.google.com/file/d/1IWCMyy0oq1K4JqaEMhGkagRxoRZZcnfT/view?usp=sharing)
 **Коммиты:**
-- [`Lesson09 ObjectStreamStorage`](https://github.com/JavaWebinar/basejava/tree/7a80d1d7feba08d433e55417bfd26ac0b3fa5298)
+- [`Lesson09 ObjectStreamStorage`]
 
 **Ресурсы:**
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=3">Сериализация объектов (serialization)</a>
@@ -27,7 +27,7 @@
  
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. NIO](https://drive.google.com/file/d/1I_xlcpoY2LagC-mV4_kiY1W-HCSXgNwD/view?usp=sharing)
 **Коммиты:**
-- [`Lesson09 AbstractPathStorage`](https://github.com/JavaWebinar/basejava/commit/4b37c38fb980e315c5ec5f1b2b868fbb5935fe6d)
+- [`Lesson09 AbstractPathStorage`]
 
 **Ресурсы:**
 - <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>

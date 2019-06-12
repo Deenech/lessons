@@ -5,13 +5,13 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/file/d/1RK4FKVXujz1iet987N4lGl98HVyBaXSc/view?usp=sharing)
 **Коммиты:**
-- [`Lesson10 HW09`](https://github.com/JavaWebinar/basejava/tree/cf532714164239d7d99909f92ba52cb79cb0694a)
+- [`Lesson10 HW09`]
 
 **Ресурсы:**
 - [Паттерн - Стратегия](https://www.youtube.com/watch?v=rsB2exGsR4I)
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Формат XML. Работа с XML в Java](https://drive.google.com/file/d/1HAKg5utZIrB7GGmBRKBgGq25icpw0ugb/view?usp=sharing)
 **Коммиты:**
-- [`Lesson10 xml`](https://github.com/JavaWebinar/basejava/tree/c36b41e468df8a82bb1e8ba668f3d00e76989fd9)
+- [`Lesson10 xml`]
 
 **Ресурсы:**
 - <a href="http://www.duct-tape-architect.ru/?p=315">XML формат и технологии</a>
@@ -20,7 +20,7 @@
  
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. JSON](https://drive.google.com/file/d/1hk6EZTmE20fhx6AY1bkCjkBVzeC1df9G/view?usp=sharing)
 **Коммиты:**
-- [`Lesson10 json`](https://github.com/JavaWebinar/basejava/tree/ba409e3666f1a5086182a736784c4362a1979b7f)
+- [`Lesson10 json`]
 
 **Ресурсы:**
 - <a href="https://ru.wikipedia.org/wiki/JSON">JSON</a>. <a href="https://learn.javascript.ru/json">JSON в JavaScript</a>
@@ -29,7 +29,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. DataInputStream / DataOutputStream](https://drive.google.com/file/d/1BcmwJfY0bnetuz2c9XWt_jQcob2gc9Hw/view?usp=sharing)
 **Коммиты:**
-- [`Lesson10 DataStream`](https://github.com/JavaWebinar/basejava/tree/6f699cb5d804b3d033a06cc1173cd1076b0553f9)
+- [`Lesson10 DataStream`]
 
 ## Домашнее задание
 - Сделать и протестировать реализацию `DataStreamSerializer`
