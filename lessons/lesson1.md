@@ -1,6 +1,6 @@
 # Первое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/1L9bTcm7nDMDevM9aY1JKcU9-VRX5PC-h/view?usp=sharing)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/18VrA0y7Gjfnh0HIv6drvH12u_J8mHBxu/view?usp=sharing)
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
 ### Подготовка рабочего окружения
@@ -11,14 +11,14 @@
 - Установите [IntelliJ IDEA](http://www.jetbrains.com/idea/download/index.html) (пока нет базы данных и веб, можно работать с версией Community)
 > Версия Ultimate является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получает единоразовый ключ на 6 месяцев
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/1N2OCFYj-KUh_xgCLOf23LV_NcThZaPCE/view?usp=sharing)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/17iCZQEoPncXAq4Tmdb-gPH--0Bo4tqb5/view?usp=sharing)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
 - [Размеры проектов в количестве строк кода [eng]](https://medium.freecodecamp.com/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по оформлению кода](https://drive.google.com/file/d/1BfVe2KaUxWCAB8R3RKSyM8tmWZBv-J-9/view?usp=sharing)
 - [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/1oVt_-Xm016gQl0yDUTrli--QP5l4J1Zi/view?usp=sharing)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/1vBDOYGIvhu66klfFh5-15TxO1GIRT3Gr/view?usp=sharing)
 - [Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet)
 - [Интерактивный курс по SQL](http://www.sql-ex.ru/)
 - [The State of Java in 2018](http://www.baeldung.com/java-in-2018)
@@ -27,7 +27,7 @@
 - **Дополнительно:**
    - [Автоматизированная сборка проекта в Java](http://spring-projects.ru/guides/maven/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/file/d/1lIWW-lotc5w-Wg_rn73OCmdC-LO0ioDv/view?usp=sharing)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/file/d/1-bf8i2lo4K5Dw7TzrJPE4x3Nb-zXFL76/view?usp=sharing)
 - [Java](http://ru.wikipedia.org/wiki/Java), [JVM](http://ru.wikipedia.org/wiki/Виртуальная_машина_Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT) (wiki)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
@@ -43,7 +43,7 @@
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
    - [Most popular Java application servers: 2017 edition](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/1gZtag4wqKnbYSkly192hvYEsLaOb_0Ge/view?usp=sharing)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/1FG6Rw4-OmsTj3ImAQLehcdqAzoqw_9Fl/view?usp=sharing)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
